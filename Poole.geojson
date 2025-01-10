@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",    
+      "properties": {
+        "name": "POOLE, DORSET, UK"     
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [ [ [-2.005822, 50.791] ,[-1.992273, 50.791449],[-2.095595, 50.68096],[-2.090491, 50.670986],[-2.005822, 50.791] ] ]   }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "POOLE, DORSET, UK"
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -2.005822, 50.791449 ]
+      }
+     
+    },
+    {
+      "type": "Feature",    
+      "properties": {
+        "name": "GILLINGHAM, DORSET, UK"     
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [ [ [-2.325853, 51.079684]  ,[-2.308605,51.079165],[-2.209190, 51.046789],[-2.282115, 50.97655],[-2.325853, 51.079684] ] ]   }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GILLINGHAM, DORSET, UK"
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -2.325853, 51.079684 ]
+      }
+     
+    }
+   
+  ]
+}
